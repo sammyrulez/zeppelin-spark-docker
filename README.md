@@ -1,7 +1,7 @@
 # zeppelin-spark-docker
 Docker file for Apache Zeppelin and Apache Spark
 
-[Testo descrittivo](@link@){:target="_blank"}
+
 
 ## Build & Run
 
