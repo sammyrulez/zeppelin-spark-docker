@@ -1,6 +1,7 @@
 # zeppelin-spark-docker
 Docker file for Apache Zeppelin and Apache Spark
 
+![Docker Image CI](https://github.com/sammyrulez/zeppelin-spark-docker/workflows/Docker%20Image%20CI/badge.svg)
 
 
 ## Build & Run
