@@ -81,7 +81,7 @@ RUN echo "$LOG_TAG Download Zeppelin binary" && \
 
 
 ENV SPARK_PROFILE 2.4
-ENV SPARK_VERSION 2.4.0
+ENV SPARK_VERSION 2.4.5
 ENV HADOOP_PROFILE 2.7
 ENV SPARK_HOME /usr/local/spark
 RUN echo "Download Apache Spark" && \
